@@ -59,7 +59,7 @@ O projeto segue o processo do **Crisp-DM** e as principais etapas incluem:
 
 5. **Avaliação**: A métrica de avaliação escolhida foi o **RMSE** (Root Mean Squared Error). Os modelos foram avaliados e comparados para determinar qual modelo teve o melhor desempenho.
 
-6. **Implantação**: Embora o projeto seja analítico, um modelo robusto foi desenvolvido para demonstrar o processo de construção e avaliação.
+6. **Implantação**: Não houve implementação, rs
 
 ## Resultados
 
