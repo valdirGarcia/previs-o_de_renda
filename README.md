@@ -84,10 +84,6 @@ Durante a avaliação dos modelos, foram calculados os **RMSE** de cada modelo:
 
 O modelo com a transformação logarítmica da variável de renda (Modelo `'resultado3'`) foi o mais eficaz, apresentando o menor RMSE. A análise sugeriu que a transformação de variáveis pode ser uma estratégia importante para melhorar o desempenho do modelo. Este projeto é um exemplo de como diferentes abordagens de modelagem podem ser testadas para resolver um problema de previsão.
 
-## Licença
-
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ## Extras
 
 
